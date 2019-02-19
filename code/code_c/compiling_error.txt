@@ -1,0 +1,7 @@
+C:\Users\garnaud rapha�l\Documents\Document professionel\M1\semestre 2\Calcul haute performance\Documents\code\code_c\ordonner.c: In function 'main':
+C:\Users\garnaud rapha�l\Documents\Document professionel\M1\semestre 2\Calcul haute performance\Documents\code\code_c\ordonner.c:15:1: error: expected ';' before '{' token
+ {
+ ^
+C:\Users\garnaud rapha�l\Documents\Document professionel\M1\semestre 2\Calcul haute performance\Documents\code\code_c\ordonner.c:27:1: error: expected declaration or statement at end of input
+ }
+ ^
